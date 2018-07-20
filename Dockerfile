@@ -1,3 +1,3 @@
 FROM fluent/fluentd:v1.2
 
-ADD fluentd/etc/fluent.conf /fluent/etc/fluent.conf
+ADD fluentd/etc/fluent.conf /fluentd/etc/fluent.conf
